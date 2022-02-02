@@ -1,0 +1,72 @@
+body
+{
+  margin: 0;
+  text-align: center;
+}
+h1
+{
+  margin: 0;
+  font-family: 'Comforter', cursive;
+  font-size: 5.625em;
+  color: #66BFBF;
+
+
+}
+.para1topcont
+{
+  font-weight: normal;
+
+}
+
+h2
+{
+  color:  #66BFBF;
+}
+h3
+{
+  color: #11999E;
+}
+a
+{
+  color: #11999E;
+}
+.top-container
+{
+
+  margin: 0;
+  background-color: aqua;
+  position: relative;
+  padding-top: 80px;
+}
+.skillssec
+{
+  width:50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.cloudimg1
+{
+ position: absolute;
+ left:1000px;
+ top:40px;
+}
+.cloudimg2
+{
+  position: absolute;
+}
+.murderimg
+{
+  width:25%;
+  float: left;
+  margin-right:30px;
+
+}
+.ChefNCoderimg
+{
+  max-width: 25%;
+  
+  float: left;
+  margin-right:30px;
+
+}
